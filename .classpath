@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/tomcat7/apache-tomcat-7.0.11/apache-tomcat-7.0.11/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/JS/InforSuite-AS-EnE-9.1.1/as/modules/javax.servlet-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
